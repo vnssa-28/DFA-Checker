@@ -1,0 +1,10 @@
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\bin\Debug\PA1 FLA Vanessa - DFA.exe.config
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\bin\Debug\PA1 FLA Vanessa - DFA.exe
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\bin\Debug\PA1 FLA Vanessa - DFA.pdb
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\bin\Debug\PA1 FLA Vanessa - DFA.xml
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\obj\Debug\PA1 FLA Vanessa - DFA.vbprojResolveAssemblyReference.cache
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\obj\Debug\PA1_FLA_Vanessa___DFA.Resources.resources
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\obj\Debug\PA1 FLA Vanessa - DFA.vbproj.GenerateResource.Cache
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\obj\Debug\PA1 FLA Vanessa - DFA.exe
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\obj\Debug\PA1 FLA Vanessa - DFA.xml
+E:\PA1 FLA Vanessa - DFA\PA1 FLA Vanessa - DFA\obj\Debug\PA1 FLA Vanessa - DFA.pdb
